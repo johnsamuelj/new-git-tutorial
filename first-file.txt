@@ -1,0 +1,7 @@
+Welcome to git tutorial
+
+Add -> staging your files
+
+Commit -> Commiting the changes to a point
+
+Push -> pushing to remote repository
