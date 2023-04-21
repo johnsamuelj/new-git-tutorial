@@ -1,1 +1,1 @@
-This is the file to check how revert command workds for revert 2
+This is the original text
